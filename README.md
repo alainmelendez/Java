@@ -209,7 +209,10 @@ Spring Boot project to query the data of dishes from a restaurant menu by provid
 *Proyecto Springboot para consultar los datos de los platos de un menú de restaurante a partir de proporcionar el número de plato.*
 
 ## P302-Odontologia
+**(Netbeans 12.3/JDK 11)**
 
 ## P303-ClinicaVeterinaria
+**(Netbeans 12.3/JDK 11)**
 
 ## P304-TiendaBazar
+**(Netbeans 12.3/JDK 11)**
