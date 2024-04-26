@@ -5,7 +5,7 @@ This is a full repository including exercises and projects developed to study, l
 *Este es un repo completo incluyendo ejercicios y proyectos desarrollados para estudiar, aprender y trabajar con la tecnología de Java usando Netbeans/Intellij y versiones jdf como 8, 11, 15.*
 
 ## Table of Content / *Tabla de Contenido*
-- Exercises / *Ejercicios*
+- Exercises / *Ejercicios* 
   - [E001-Vectores](#vectores)
   - [E002-Centinelas](#centinelas)
   - [E003-NumerosLimite](#numeroslimite)
