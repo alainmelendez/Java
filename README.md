@@ -197,9 +197,9 @@ System for a car store that allows loading, reviewing, modifying, and deleting c
 ## P104-RolesPermisos
 **(Netbeans 12.3/JDK 11)**
 
-In process.
+*Login demo including username and password, roles and permissions. CRUD of users and admins. This is done in the GUI with JPA/EclipseLink.*
 
-*En proceso.*
+*Demo de login incluyendo nombre del user y password, roles y permisos. CRUD de usuarios y admins. Esto se realiza en la IGU con JPA/EclipseLink.*
 
 ## P301-menuRestaurant
 **(Netbeans 12.3/JDK 11)**
